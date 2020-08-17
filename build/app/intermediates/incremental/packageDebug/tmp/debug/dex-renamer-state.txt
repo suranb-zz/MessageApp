@@ -1,4 +1,4 @@
-#Mon Aug 17 10:15:31 CEST 2020
-base.0=C\:\\Users\\SuperOffice\\Desktop\\Development\\flutter_chat_ui_starter-master\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\out\\classes.dex
+#Mon Aug 17 11:13:45 CEST 2020
+base.0=C\:\\Users\\SuperOffice\\Desktop\\Development\\MessageApp\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\out\\classes.dex
 path.0=classes.dex
 renamed.0=classes.dex
