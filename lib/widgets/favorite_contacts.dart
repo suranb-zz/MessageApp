@@ -29,7 +29,6 @@ class FavoriteContacts extends StatelessWidget {
                   ),
                   iconSize: 30.0,
                   color: Colors.blueGrey,
-
                   onPressed: () {},
                 ),
               ],

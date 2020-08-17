@@ -18,15 +18,17 @@ class _HomeScreenState extends State<HomeScreen> {
           iconSize: 30.0,
           color: Colors.white,
           onPressed: ()  {
-
           },
         ),
-        title: Text(
-          'Chats',
-           style: TextStyle(
-            fontSize: 28.0,
-            fontWeight: FontWeight.bold,
-        ),
+        title: Center(
+          child: Text(
+            'Hype Studio',
+             style: TextStyle(
+              fontSize: 28.0,
+              fontWeight: FontWeight.bold,
+               color: Colors.white,
+          ),
+          ),
         ),
         elevation: 0.0,
         actions: <Widget> [
